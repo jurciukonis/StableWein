@@ -1,5 +1,5 @@
 # StableWein
-Package for evaluating perturbative unitarity (UNI) and bounded-from-below (BFB) conditions in a Z2 x Z2-symmetric three-Higgs-doublet model
+Package for evaluating perturbative unitarity (UNI) and bounded-from-below (BFB) conditions in a Z2 x Z2-symmetric three-Higgs-doublet model.
 
 - ["StableWein.nb"](https://github.com/jurciukonis/StableWein/blob/main/StableWein.nb): main package file.
 
