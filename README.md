@@ -13,5 +13,5 @@ Package for evaluating perturbative unitarity (UNI) and bounded-from-below (BFB)
 
 **If you use materials from the repository for a publication, please cite following reference:**
 
-[[1](https://arxiv.org/abs/2603.23590)] D. Jurčiukonis, L. Lavoura, and A. Milagre, _Assessing boundedness from below in the Z2 x Z2-symmetric three-Higgs-doublet model: algorithm and machine learning_, [arXiv:2603.XXXXX](https://arxiv.org/abs/2603.23590).
+[[1](https://arxiv.org/abs/2603.23590)] D. Jurčiukonis, L. Lavoura, and A. Milagre, _Assessing boundedness from below in the Z2 x Z2-symmetric three-Higgs-doublet model: algorithm and machine learning_, [arXiv:2603.23590](https://arxiv.org/abs/2603.23590).
 
