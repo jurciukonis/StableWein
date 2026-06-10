@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[    160532,       3730]
-NotebookOptionsPosition[    141305,       3339]
-NotebookOutlinePosition[    149943,       3515]
-CellTagsIndexPosition[    149374,       3495]
+NotebookDataLength[    160719,       3736]
+NotebookOptionsPosition[    141492,       3345]
+NotebookOutlinePosition[    150130,       3521]
+CellTagsIndexPosition[    149561,       3501]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -3316,7 +3316,13 @@ Cell[TextData[{
  StyleBox["-symmetric three-Higgs-doublet model: algorithm and machine \
 learning",
   FontSlant->"Italic"],
- ", arXiv:2603.xxxxx [hep-ph]."
+ ", ",
+ ButtonBox["arXiv:2603.23590 [hep-ph]",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://arxiv.org/abs/2603.23590"], None},
+  ButtonNote->"https://arxiv.org/abs/2603.23590"],
+ "."
 }], "Notes",
  Editable->True,
  TaggingRules->{},
@@ -3330,7 +3336,7 @@ learning",
    3.9787911382569933`*^9}, {3.9787912586493053`*^9, 3.978791261821886*^9}, {
    3.979879036452043*^9, 3.979879197048585*^9}, {3.979879247623336*^9, 
    3.9798792886279917`*^9}, {3.979879737815711*^9, 3.979879738340618*^9}, {
-   3.983270259336236*^9, 3.983270262954427*^9}},
+   3.983270259336236*^9, 3.983270262954427*^9}, 3.990062646243697*^9},
  CellTags->{"TabNext", "References"},
  CellID->1295981378,ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0"]
 }, Open  ]]
@@ -3386,7 +3392,7 @@ CellTagsIndex->{
   Cell[138177, 3267, 1493, 30, 47, "Notes",ExpressionUUID->"e0a3cf33-a00d-416a-95c4-af783695cc31",
    CellTags->{"TabNext", "References"},
    CellID->725883706],
-  Cell[139673, 3299, 1592, 35, 47, "Notes",ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0",
+  Cell[139673, 3299, 1779, 41, 47, "Notes",ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0",
    CellTags->{"TabNext", "References"},
    CellID->1295981378]},
  "TemplateCell"->{
@@ -3487,29 +3493,29 @@ CellTagsIndex->{
   Cell[138177, 3267, 1493, 30, 47, "Notes",ExpressionUUID->"e0a3cf33-a00d-416a-95c4-af783695cc31",
    CellTags->{"TabNext", "References"},
    CellID->725883706],
-  Cell[139673, 3299, 1592, 35, 47, "Notes",ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0",
+  Cell[139673, 3299, 1779, 41, 47, "Notes",ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0",
    CellTags->{"TabNext", "References"},
    CellID->1295981378]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"Name", 141883, 3356},
- {"TabNext", 142075, 3360},
- {"TemplateCell", 143821, 3391},
- {"Title", 144397, 3401},
- {"DefaultContent", 144596, 3405},
- {"Description", 145676, 3424},
- {"Documentation", 146083, 3431},
- {"TemplateSection", 146275, 3435},
- {"TemplateCellGroup", 146660, 3442},
- {"Usage", 147400, 3455},
- {"Examples", 147584, 3459},
- {"Source & Additional Information", 147794, 3463},
- {"Related Symbols", 148008, 3467},
- {"Details & Options", 148216, 3471},
- {"Notes", 148434, 3475},
- {"References", 148657, 3479}
+ {"Name", 142070, 3362},
+ {"TabNext", 142262, 3366},
+ {"TemplateCell", 144008, 3397},
+ {"Title", 144584, 3407},
+ {"DefaultContent", 144783, 3411},
+ {"Description", 145863, 3430},
+ {"Documentation", 146270, 3437},
+ {"TemplateSection", 146462, 3441},
+ {"TemplateCellGroup", 146847, 3448},
+ {"Usage", 147587, 3461},
+ {"Examples", 147771, 3465},
+ {"Source & Additional Information", 147981, 3469},
+ {"Related Symbols", 148195, 3473},
+ {"Details & Options", 148403, 3477},
+ {"Notes", 148621, 3481},
+ {"References", 148844, 3485}
  }
 *)
 (*NotebookFileOutline
@@ -3726,7 +3732,7 @@ Cell[136881, 3237, 1293, 28, 47, "Notes",ExpressionUUID->"c6ca6708-641b-47c9-a4b
 Cell[138177, 3267, 1493, 30, 47, "Notes",ExpressionUUID->"e0a3cf33-a00d-416a-95c4-af783695cc31",
  CellTags->{"TabNext", "References"},
  CellID->725883706],
-Cell[139673, 3299, 1592, 35, 47, "Notes",ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0",
+Cell[139673, 3299, 1779, 41, 47, "Notes",ExpressionUUID->"ad2e2b5f-c8c7-4714-8907-214404c72ca0",
  CellTags->{"TabNext", "References"},
  CellID->1295981378]
 }, Open  ]]

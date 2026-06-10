@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   1990186,      43475]
-NotebookOptionsPosition[   1932435,      42238]
-NotebookOutlinePosition[   1955108,      42700]
-CellTagsIndexPosition[   1954200,      42671]
+NotebookDataLength[   1990379,      43482]
+NotebookOptionsPosition[   1932628,      42245]
+NotebookOutlinePosition[   1955301,      42707]
+CellTagsIndexPosition[   1954393,      42678]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -42216,7 +42216,13 @@ Cell[TextData[{
  StyleBox["-symmetric three-Higgs-doublet model: algorithm and machine \
 learning",
   FontSlant->"Italic"],
- ", arXiv:2603.xxxxx [hep-ph]."
+ ", ",
+ ButtonBox["arXiv:2603.23590 [hep-ph]",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://arxiv.org/abs/2603.23590"], None},
+  ButtonNote->"https://arxiv.org/abs/2603.23590"],
+ "."
 }], "Notes",
  Editable->True,
  TaggingRules->{},
@@ -42229,7 +42235,8 @@ learning",
    3.978776469763104*^9, 3.978776482919929*^9}, {3.978791068183041*^9, 
    3.9787911382569933`*^9}, {3.9787912586493053`*^9, 3.978791261821886*^9}, {
    3.979879036452043*^9, 3.979879197048585*^9}, {3.979879247623336*^9, 
-   3.9798792886279917`*^9}, {3.983270168928602*^9, 3.983270173267139*^9}},
+   3.9798792886279917`*^9}, {3.983270168928602*^9, 3.983270173267139*^9}, 
+   3.9900626206342287`*^9},
  CellTags->{"TabNext", "References"},
  CellID->1295981378,ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26"]
 }, Open  ]]
@@ -42237,7 +42244,7 @@ learning",
 }, Open  ]]
 },
 WindowSize->{1165.5, 1026.75},
-WindowMargins->{{Automatic, 399.75}, {0, Automatic}},
+WindowMargins->{{Automatic, 656.25}, {0, Automatic}},
 TaggingRules-><|
  "SlideshowSettings" -> <|"Toolbar" -> True|>, "TryRealOnly" -> False|>,
 CreateCellID->True,
@@ -42277,7 +42284,7 @@ CellTagsIndex->{
   Cell[26070, 618, 1072, 19, 35, "Text",ExpressionUUID->"34dab689-8b54-456c-8386-244510be9ca9",
    CellTags->{"DefaultContent", "Description", "TabNext", "TemplateCell"},
    CellID->263104304],
-  Cell[1930853, 42199, 1542, 34, 47, "Notes",ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26",
+  Cell[1930853, 42199, 1735, 41, 47, "Notes",ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26",
    CellTags->{"TabNext", "References"},
    CellID->1295981378]},
  "TemplateCell"->{
@@ -42663,38 +42670,38 @@ CellTagsIndex->{
   Cell[1930500, 42191, 350, 6, 54, "Subsection",ExpressionUUID->"7aee2d21-b99d-4693-9317-1041b298dca3",
    CellTags->{"Details & Options", "Notes", "TemplateCellGroup", "References"},
    CellID->1564129765],
-  Cell[1930853, 42199, 1542, 34, 47, "Notes",ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26",
+  Cell[1930853, 42199, 1735, 41, 47, "Notes",ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26",
    CellTags->{"TabNext", "References"},
    CellID->1295981378]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"Name", 1933045, 42256},
- {"TabNext", 1933236, 42260},
- {"TemplateCell", 1934440, 42282},
- {"Title", 1935015, 42292},
- {"DefaultContent", 1935213, 42296},
- {"Description", 1935787, 42306},
- {"Documentation", 1936194, 42313},
- {"TemplateSection", 1936386, 42317},
- {"TemplateCellGroup", 1936773, 42324},
- {"Usage", 1937707, 42340},
- {"Details & Options", 1937900, 42344},
- {"Notes", 1938310, 42351},
- {"Examples", 1938723, 42358},
- {"GeneratePoints", 1938916, 42362},
- {"Import & Export Data", 1940327, 42390},
- {"ImposeUNI", 1942596, 42433},
- {"ImposeBFB", 1943807, 42458},
- {"NeuralNets", 1945017, 42483},
- {"ShowMessages", 1949666, 42577},
- {"NPoints", 1950757, 42599},
- {"MaxCoupling", 1951810, 42621},
- {"BoundUNI", 1952593, 42637},
- {"Source & Additional Information", 1953384, 42653},
- {"Related Symbols", 1953600, 42657},
- {"References", 1953803, 42661}
+ {"Name", 1933238, 42263},
+ {"TabNext", 1933429, 42267},
+ {"TemplateCell", 1934633, 42289},
+ {"Title", 1935208, 42299},
+ {"DefaultContent", 1935406, 42303},
+ {"Description", 1935980, 42313},
+ {"Documentation", 1936387, 42320},
+ {"TemplateSection", 1936579, 42324},
+ {"TemplateCellGroup", 1936966, 42331},
+ {"Usage", 1937900, 42347},
+ {"Details & Options", 1938093, 42351},
+ {"Notes", 1938503, 42358},
+ {"Examples", 1938916, 42365},
+ {"GeneratePoints", 1939109, 42369},
+ {"Import & Export Data", 1940520, 42397},
+ {"ImposeUNI", 1942789, 42440},
+ {"ImposeBFB", 1944000, 42465},
+ {"NeuralNets", 1945210, 42490},
+ {"ShowMessages", 1949859, 42584},
+ {"NPoints", 1950950, 42606},
+ {"MaxCoupling", 1952003, 42628},
+ {"BoundUNI", 1952786, 42644},
+ {"Source & Additional Information", 1953577, 42660},
+ {"Related Symbols", 1953793, 42664},
+ {"References", 1953996, 42668}
  }
 *)
 (*NotebookFileOutline
@@ -43471,7 +43478,7 @@ Cell[CellGroupData[{
 Cell[1930500, 42191, 350, 6, 54, "Subsection",ExpressionUUID->"7aee2d21-b99d-4693-9317-1041b298dca3",
  CellTags->{"Details & Options", "Notes", "TemplateCellGroup", "References"},
  CellID->1564129765],
-Cell[1930853, 42199, 1542, 34, 47, "Notes",ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26",
+Cell[1930853, 42199, 1735, 41, 47, "Notes",ExpressionUUID->"846e875f-3b76-4c83-bd5b-77783eee2d26",
  CellTags->{"TabNext", "References"},
  CellID->1295981378]
 }, Open  ]]
